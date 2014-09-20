@@ -79,6 +79,7 @@ Chapter 3
    See BugRunner16.java and BoxBugRunner16.java
    
 Questions from Chapter 3:
+
    -How do you complete the program on page 69?
    
    -How do you change an object or class from public to private and keep the program functional?
