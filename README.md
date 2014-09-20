@@ -52,7 +52,7 @@ Chapter 3
 
 7. For (a, b) in GridWorld, a is the row and b is the column. Rows and columns are counted from 0.
 
-11. See Book11.java
+11. See BookTestPackage folder and Book11.java
 
 14. a) True
    
