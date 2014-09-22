@@ -30,7 +30,7 @@ private int xPos, yPos;  // hold the coordinates of the banner
   public void paint(Graphics g)
   {
     super.paint(g);
-    g.fillRect(xPos, yPos, 150, 45);
+    g.fillRect(xPos, yPos, 150, 45); //you did not need both fillRect and drawRect, but you did need the color, to set it to black.
     g.drawRect(xPos, yPos, 150, 45);
   }
 
